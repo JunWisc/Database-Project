@@ -1,0 +1,16 @@
+illness_id,department,illness_severity
+1,radiotherapy,Extreme
+2,anesthesia,Extreme
+3,gynecology,Extreme
+4,gynecology,Moderate
+5,anesthesia,Moderate
+6,gynecology,Minor
+7,radiotherapy,Minor
+8,radiotherapy,Moderate
+9,TB & Chest disease,Extreme
+10,anesthesia,Minor
+11,TB & Chest disease,Minor
+12,TB & Chest disease,Moderate
+13,surgery,Moderate
+14,surgery,Extreme
+15,surgery,Minor
